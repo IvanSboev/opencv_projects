@@ -3,5 +3,5 @@
 **Источник:**
 https://metanit.com/cpp/tutorial/
 
-**Текущая тема: вложенные циклы** 
-https://metanit.com/cpp/tutorial/2.13.php
+**Текущая тема: массивы** 
+https://metanit.com/cpp/tutorial/2.15.php
