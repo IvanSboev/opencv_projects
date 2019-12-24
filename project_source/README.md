@@ -3,5 +3,5 @@
 **Источник:**
 https://metanit.com/cpp/tutorial/
 
-**Текущая тема: массивы** 
-https://metanit.com/cpp/tutorial/2.15.php
+**Текущая тема: функции** 
+https://metanit.com/cpp/tutorial/3.1.php
