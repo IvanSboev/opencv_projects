@@ -6,5 +6,6 @@ https://metanit.com/cpp/tutorial/
 
 **Текущая тема:**
 
-Константные параметры 
+Константные параметры
+
 https://metanit.com/cpp/tutorial/3.4.php
