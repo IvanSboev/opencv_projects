@@ -3,5 +3,7 @@
 **Источник:**
 https://metanit.com/cpp/tutorial/
 
-**Текущая тема: функции** 
-https://metanit.com/cpp/tutorial/3.1.php
+**Текущая тема:**
+
+**Константные параметры** 
+https://metanit.com/cpp/tutorial/3.4.php
